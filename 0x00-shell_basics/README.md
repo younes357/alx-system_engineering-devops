@@ -5,3 +5,4 @@ script 3: ls -l : Display current directory contents in a long format.
 script 4: ls -la: Displays hidden files in long format.
 script 5: ls -lna : Display current directory contents in : Long format, with user and group IDs displayed numerically, And hidden files (starting with .)
 script 6 : Create a script that creates a directory named my first directory in the tmp directory.
+script 7 : Move the file betty from /tmp/ to /tmp/my_first_directory.
