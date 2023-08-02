@@ -9,3 +9,5 @@ script 7 : Move the file betty from /tmp/ to /tmp/my_first_directory.
 script 8: Delete the file betty.The file betty is in /tmp/my_first_directory.
 script 9: Delete the directory my_first_directory that is in the /tmp directory.
 script 10: changes the working directory to the previous one.
+script 11:  lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
