@@ -7,3 +7,4 @@ script 5: ls -lna : Display current directory contents in : Long format, with us
 script 6 : Create a script that creates a directory named my first directory in the tmp directory.
 script 7 : Move the file betty from /tmp/ to /tmp/my_first_directory.
 script 8: Delete the file betty.The file betty is in /tmp/my_first_directory.
+script 9: Delete the directory my_first_directory that is in the /tmp directory.
