@@ -9,3 +9,6 @@ script 7: adds execution permission to the owner, the group owner and the other 
 script 8:  sets the permission to the file hello as follows: Owner: no permission at all; Group: no permission at all; Other users: all the permissions.
 script 9: script that sets the mode of the file hello using 753.
 script 10: sets the mode of the file hello the same as olleh’s mode.
+script 11: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+script 12: creates a directory called my_dir with permissions 751 in the working directory.
+script 13: changes the group owner to school for the file hello.
